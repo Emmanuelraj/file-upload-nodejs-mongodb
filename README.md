@@ -5,6 +5,9 @@
 # Technologies
               Ejs 
               mongodb(mlab)
+              multer
+              gridfs-storage
+              multer-gridfs-stream
               
 
 # Deploy : 
